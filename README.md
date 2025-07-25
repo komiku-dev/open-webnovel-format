@@ -60,7 +60,7 @@ The standard uses a professional two-format system that separates the organizati
 
 #### For Authors & Translators
 
-This format is built to make your life easier. By separating content from presentation and providing clear structure, it creates a more professional workflow. The translation process is radically simplified—instead of juggling dozens of separate documents, translators can work with a single file containing parallel languages. Workflow statuses (`draft`, `final`) allow teams to track progress efficiently, and the non-destructive nature of the format means your original work is always preserved.
+This format is built to make your life easier. By separating content from presentation and providing clear structure, it creates a more professional workflow. The translation process is radically simplified—instead of juggling dozens of separate documents, translators can work with a single file containing parallel languages. Workflow statuses (`draft`, `proofreading`, `final`) allow teams to track progress efficiently, and the non-destructive nature of the format means your original work is always preserved.
 
 #### For Platforms & Readers
 
