@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <chapter order="1" src="chapters/chapter-01.wnc" />
+    <chapter order="2" src="chapters/chapter-02.wnc" />
+    <chapter order="3" src="chapters/chapter-03.wnc" />
+    <chapter order="4" src="chapters/chapter-04.wnc" />
+    <chapter order="5" src="chapters/chapter-05.wnc" />
+</manifest>

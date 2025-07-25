@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters>
+
+    <character id="leo-k">
+        <names>
+            <name lang="en">Leo Knudsen</name>
+            <name lang="da">Leo Knudsen</name>
+        </names>
+        <roles>
+            <role lang="en">Protagonist</role>
+            <role lang="da">Hovedperson</role>
+        </roles>
+        <descriptions>
+            <description lang="en">A sharp-witted history student at the University of Copenhagen who is more observant than he lets on.</description>
+            <description lang="da">En skarpsindig historiestuderende ved Københavns Universitet, som er mere opmærksom, end han lader ane.</description>
+        </descriptions>
+        
+        <firstAppearance chapter="5" />
+        <image>assets/leo-portrait.png</image>
+    </character>
+    
+    <character id="dr-arnesen">
+        <names>
+            <name lang="en">Dr. Solveig Arnesen</name>
+            <name lang="da">Dr. Solveig Arnesen</name>
+        </names>
+        <roles>
+            <role lang="en">Mentor</role>
+            <role lang="da">Mentor</role>
+        </roles>
+        <descriptions>
+            <description lang="en">Leo's archaeology professor. A brilliant but cautious academic.</description>
+            <description lang="da">Leos professor i arkæologi. En genial, men forsigtig akademiker.</description>
+        </descriptions>
+        
+        <firstAppearance chapter="3" />
+    </character>
+
+</characters>

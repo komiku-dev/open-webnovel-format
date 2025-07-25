@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+
+    <titles>
+        <title lang="en">The Astrolabe Conspiracy</title>
+        <title lang="da">Astrolabie-konspirationen</title>
+    </titles>
+    
+    <authors>
+        <author>Leo Knudsen</author>
+        <author>Maja Jensen</author>
+    </authors>
+    
+    <seriesName>The Copenhagen Cipher</seriesName>
+    
+    <identifiers>
+        <!-- Komiku Standard Identifier (KSI)  -->
+        <identifier type="KSI">kmi:wn-1753472200000-JBGd</identifier>
+    </identifiers>
+    
+    
+    <descriptions>
+        <description lang="en">A young student stumbles upon an ancient device, unraveling a mystery hidden beneath the city streets.</description>
+        <description lang="da">En ung studerende falder over en ældgammel anordning og optrævler et mysterium, der ligger skjult under byens gader.</description>
+    </descriptions>
+
+    <genres>
+        <genre>Urban Fantasy</genre>
+        <genre>Mystery</genre>
+    </genres>
+    
+    <tags>
+        <tag>Copenhagen</tag>
+        <tag>Secret Society</tag>
+        <tag>Magic</tag>
+    </tags>
+
+    
+    <publisher>Komiku Publishing</publisher>
+    
+    <languages main="en">
+        <language code="en">English</language>
+        <language code="da">Dansk</language>
+    </languages>
+    
+    <status>Ongoing</status>
+    
+    <publishDate>2025-07-25</publishDate>
+    
+    <lastModifiedDate>2025-07-25T20:08:20+02:00</lastModifiedDate>
+    
+    <rights>© 2025 Leo Knudsen & Maja Jensen. All rights reserved.</rights>
+
+</metadata>

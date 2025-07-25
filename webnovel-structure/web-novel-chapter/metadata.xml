@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata schemaVersion="2.1">
+    
+    <languages main="en">
+        <language code="en">English</language>
+        <language code="da">Dansk</language>
+    </languages>
+
+    <titles>
+        <title lang="en">The Emerald Glow</title>
+        <title lang="da">Smaragdgløden</title>
+    </titles>
+    
+    <chapterNumber>3</chapterNumber>
+    
+    <authorsNotes>
+        <note lang="en">I've always been fascinated by the Rosenborg Castle Gardens. What if something... unexpected were to happen there? This chapter is a must-read!</note>
+        <note lang="da">Jeg har altid været fascineret af Kongens Have ved Rosenborg. Hvad nu hvis noget... uventet skete der? Dette kapitel er et must-read!</note>
+    </authorsNotes>
+
+</metadata>
