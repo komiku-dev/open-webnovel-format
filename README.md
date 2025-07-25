@@ -5,7 +5,7 @@
 ---
 
 > [!NOTE]
-> **This is an open-source initiative by Komiku** to create a modern, dynamic, and accessible file format standard for webnovels.
+> **This is an initiative by Komiku** to create a modern, dynamic, and accessible **open standard** for webnovels.
 
 ---
 
