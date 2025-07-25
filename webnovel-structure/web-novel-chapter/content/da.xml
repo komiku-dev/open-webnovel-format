@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapterText lang="da" status="final">
+<chapterText lang="da" status="draft">
 
-    <p>Freja afviste det i starten. Et svagt, grønligt skær på bronzestatuerne i Kongens Have.  ræsonnerede hun og trak sin jakke tættere om sig i aftenkulden. Men dette var anderledes. Det så ud til at <emphasis level="italic">pulsere</emphasis> med et blødt, indre lys.</p>
+    <p>Den stille summen fra arkiverne på Det Kongelige Bibliotek var en velkendt trøst for Elias. Han rullede forsigtigt det maritime kort fra det 18. århundrede ud; dets skrøbelige papir duftede af støv og havsalt. Det var et kort over den grønlandske kyst, men en sektion nær den sydlige spids var... forkert. Kystlinjen var tværet ud, som om den var tegnet af en rystende hånd.</p>
     
-    <p>Hun rakte en tøvende finger frem og rørte ved statuen af en løve. Metallet var koldt, men den moslignende substans var mærkeligt varm. Den pulserede kraftigere ved hendes berøring. <emphasis level="bold">Dette var ikke naturligt.</emphasis></p>
     
-    <sceneBreak type="asterisk" />
     
-    <p>Senere samme aften præsenterede hun sine fund for sin professor, Dr. Arnesen. Han kiggede hendes billeder igennem med rynket pande.</p>
+    <p>Han trak en håndholdt scanner op af sin taske, dens stråle kastede et blødt blåt lys på pergamentet. Efter et øjeblik bippede apparatet. Han genkendte de svage, skinnende linjer på skærmen som en <explain><term>temporal resonanssignatur</term><description>Et ekko eller energisk spor, der efterlades i rumtiden, når en betydelig anakronistisk begivenhed har fundet sted.</description></explain>, et koncept de fleste moderne fysikere afviste som ren fantasi.</p>
     
-    <dialogue speaker="Dr. Arnesen">Utroligt. Det ligner en form for bioluminescerende svamp, men intet jeg nogensinde har set. Det er næsten, som om det ikke er fra denne verden. Lagde du mærke til dette mønster?</dialogue>
+    <dialogue speaker="Elias">Det kan ikke passe. Ikke her.</dialogue>
     
-    <dialogue speaker="Freja">De geometriske former? Ja. Det er næsten som et printkort.</dialogue>
-    
-    <p>Dr. Arnesen pegede på et af billederne, et nærbillede af det glødende mos nær <explain term="Kastellet">En velbevaret stjerneformet fæstning fra 1600-tallet, som ligger i nærheden.</explain>. "Dette vokser ikke bare," sagde han, og hans stemme faldt til en hvisken. "Det bygger noget."</p>
+    <p>Signaturen var svag, ældgammel. Men det betød, at noget umuligt var sket på den kystlinje for hundreder af år siden. <emphasis level="bold">Og nogen havde forsøgt at slette det.</emphasis></p>
 
 </chapterText>
